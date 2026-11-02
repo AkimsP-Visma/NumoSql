@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/NumoSql.Cli/NumoSql.Cli.csproj" />
+    <Project Path="src/NumoSql/NumoSql.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/NumoSql.Tests/NumoSql.Tests.csproj" />
+  </Folder>
+</Solution>
